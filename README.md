@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Sharing out resources over the network
+- Creating File Shares to allow: Read, Write, or Deny access to individual groups and users.
+- Virtual Private Network (VPN) Protocols
+
 
 <h2>Actions and Observations</h2>
 
